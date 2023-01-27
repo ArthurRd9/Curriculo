@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #1b056c;
+    background-color: #37353b;
 
 }
 
@@ -18,24 +18,21 @@ main {
 
 h1 {
     font-size: 2em ;
-    color: blue;
+    color: green;
 }
 
 
 
 h2 {
     font-size: 1,5em ;
-    color: blue;
+    color: green;
 }
 
-img.lado {
-    float: none;
-}
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: blue;
+    color: green;
 }
 
 a:hover {
