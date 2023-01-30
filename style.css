@@ -17,7 +17,7 @@ main {
 }
 
 h1 {
-    font-size: 2em ;
+    font-size: 3em ;
     color: blue;
 }
 
@@ -28,10 +28,18 @@ h2 {
     color: blue;
 }
 
+h3 {
+    font-size: 2em;
+    color: blue;
+}
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: green;
+    color: blue;
 }
-
+    
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
+}
