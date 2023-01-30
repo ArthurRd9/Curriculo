@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #37353b;
+    background-color:rgb(46, 66, 87); 
 
 }
 
@@ -17,15 +17,15 @@ main {
 }
 
 h1 {
-    font-size: 3em ;
-    color: blue;
+    font-size: 3em;
+    color:blue;
 }
 
 
 
 h2 {
-    font-size: 1,5em ;
-    color: blue;
+    font-size: 1,5em;
+    color:blue;
 }
 
 h3 {
@@ -41,5 +41,5 @@ a {
     
 a:hover {
     text-decoration: underline;
-    color: rgb(26, 26, 255);
+    color:blue;
 }
